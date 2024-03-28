@@ -1,2 +1,3 @@
 Hello, My name is user1
 Hi, I'm adding the second commit of user1
+Hi, I'm adding the third commit of user2
